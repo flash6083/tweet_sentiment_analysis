@@ -17,6 +17,6 @@ To use this code, simply run the ```twitter_sentiment_analysis.py``` file by typ
 - ```python twitter_sentiment_analysis.py```
 This script will scrape the most recent tweets(Yesterday-Today) from "The Telegraph" Twitter channel using ```snscrape``` and analyze the sentiment of the tweets. The sentiment analysis results will be printed to the console.
 
-### **References***
+### **References**
 - [Hugging Face Transformers](https://github.com/huggingface/transformers)
 - [snscrape package](https://github.com/JustAnotherArchivist/snscrape)
